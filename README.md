@@ -14,5 +14,4 @@ A C library for parsing, editing, and watching INI configuration files.
 - Typed value access
 - Runtime configuration editing
 - Change callbacks
-- Live file updates
 - Reading and writing configuration files
