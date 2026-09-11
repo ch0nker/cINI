@@ -8,7 +8,6 @@ target("cini")
     add_files("src/**.c")
     add_headerfiles("include/**.h")
 
-    set_prefixname("")
     set_basename("cini")
 
 target("cini_test")
